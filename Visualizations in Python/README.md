@@ -1,0 +1,1 @@
+Assignment about Visual Representations in Python. In the map there are 3 files available: assignment in pdf form, code for creating visual representationcs in ipynb file and Life Expectancy data in csv form.
